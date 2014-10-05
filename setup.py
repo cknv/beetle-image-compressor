@@ -5,8 +5,8 @@ setup(
     version='0.1.0',
     author='Esben Sonne',
     author_email='esbensonne+code@gmail.com',
-    # description='Makes Beetle do markdown',
-    # url='https://github.com/cknv/beetle-markdown',
+    description='Auto image compressor for Beetle',
+    url='https://github.com/cknv/beetle-image-compressor',
     license='MIT',
     packages=[
         'beetle_image_compressor'
